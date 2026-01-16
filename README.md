@@ -1,1 +1,3 @@
 # Performance_Testing
+
+UserAccess_LoadTest.jmx: HOW TO DYNAMICALLY CALL AN AUTH TOKEN IN JMETER TEST SCRIPTS
